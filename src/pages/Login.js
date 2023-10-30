@@ -8,7 +8,7 @@ function Login(){
     return(
      <div>
          
-        <h1 style={{paddingTop:'20rem'}}>Login</h1>
+        <h1 style={{paddingTop:'20rem'}}>Logcvvvcin</h1>
      </div>
     )
 
